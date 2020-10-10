@@ -55,5 +55,7 @@ h2 {
     float: left;
 }
 .author-post{
-    width: 75%;
+    border: 1px solid gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
